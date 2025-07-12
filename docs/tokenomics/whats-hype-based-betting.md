@@ -18,4 +18,3 @@ This approach creates a betting experience that is:
 * **Interactive** – Social momentum directly impacts outcomes, blending fandom with financial participation.
 
 Hype-Based Betting transforms passive speculation into an active, decentralized dialogue—bridging Web3 infrastructure with the emotional intensity of sports culture.
-
