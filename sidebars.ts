@@ -14,49 +14,43 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   docsSidebar: [
+    'intro',
     {
       type: 'category',
-      label: 'Getting started',
+      label: 'INTRODUCTION',
       items: [
-        {
-          type: 'category',
-          label: 'INTRODUCTION',
-          items: [
-            'getting-started/introduction/overview',
-            'getting-started/introduction/problem-solution',
-            'getting-started/introduction/value-proposition',
-            'getting-started/introduction/target-audience',
-          ],
-        },
-        {
-          type: 'category',
-          label: 'TOKENOMICS',
-          items: [
-            'getting-started/tokenomics/whats-hype-based-betting',
-            'getting-started/tokenomics/token-hype',
-            'getting-started/tokenomics/stake',
-            'getting-started/tokenomics/yield-farming',
-            'getting-started/tokenomics/oracle',
-          ],
-        },
-        {
-          type: 'category',
-          label: 'ARCHITECTURE',
-          items: [
-            'getting-started/architecture/smart-contracts',
-            'getting-started/architecture/backend',
-            'getting-started/architecture/frontend',
-          ],
-        },
-        {
-          type: 'category',
-          label: 'ROADMAP',
-          items: [
-            'getting-started/roadmap/v1',
-            'getting-started/roadmap/v2',
-            'getting-started/roadmap/v3',
-          ],
-        },
+        'introduction/problem-solution',
+        'introduction/value-proposition',
+        'introduction/target-audience',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'TOKENOMICS',
+      items: [
+        'tokenomics/whats-hype-based-betting',
+        'tokenomics/token-hype',
+        'tokenomics/stake',
+        'tokenomics/yield-farming',
+        'tokenomics/oracle',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'ARCHITECTURE',
+      items: [
+        'architecture/smart-contracts',
+        'architecture/backend',
+        'architecture/frontend',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'ROADMAP',
+      items: [
+        'roadmap/v1',
+        'roadmap/v2',
+        'roadmap/v3',
       ],
     },
   ],
