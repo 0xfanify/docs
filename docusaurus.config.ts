@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://0xfanify.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs/',
+  baseUrl: '/documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '0xfanify', // Nome do usuário ou organização
-  projectName: 'docs', // Nome do repositório
+  projectName: 'documentation', // Nome do repositório
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -103,7 +103,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/',
             },
           ],
         },
