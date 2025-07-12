@@ -14,4 +14,4 @@ Os smart contracts são a base do protocolo HypeBet, garantindo a lógica de neg
 
 *   **`Oracle.sol` (Versão 1 - Centralizada):** Na versão inicial, este contrato atua como um oráculo centralizado, armazenando informações sobre os jogos, o hype e os resultados. Ele é alimentado por uma entidade controlada pelo admin. Para a V2, será substituído por uma solução descentralizada baseada em Chainlink.
 
-*   **`Funify.sol` (Contrato Principal de Apostas):** Este é o contrato central que orquestra as operações de aposta. Ele é modular, utilizando outros contratos para funcionalidades específicas:
+*   **`Fanify.sol` (Contrato Principal de Apostas):** Este é o contrato central que orquestra as operações de aposta. Ele é modular, utilizando outros contratos para funcionalidades específicas:

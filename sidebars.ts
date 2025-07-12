@@ -29,6 +29,7 @@ const sidebars: SidebarsConfig = {
       label: 'TOKENOMICS',
       items: [
         'tokenomics/whats-hype-based-betting',
+        'tokenomics/how-to-calculate-dds',
         'tokenomics/token-hype',
         'tokenomics/stake',
         'tokenomics/yield-farming',

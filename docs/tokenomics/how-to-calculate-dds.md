@@ -1,14 +1,14 @@
 ---
 sidebar_position: 6
-title: How to Calculate Odds?
+title: Odds Mathematics
 ---
 
 
-# 📊 How to Calculate Odds?
+# Odds Mathematics
 
 Fanify introduces a decentralized model where odds are calculated transparently based on real-time social sentiment ("hype"). Here's how the process works:
 
-## 🔁 Workflow Overview
+## Workflow Overview
 
 1. **Data Collection:** Social media posts are gathered based on a campaign-specific hashtag (e.g., `#Chiliz_CHExPSG_20250713`).
 2. **Sentiment Classification:** AI models classify each post with a probability of support for each team.  
@@ -24,9 +24,9 @@ Fanify introduces a decentralized model where odds are calculated transparently 
 
 ---
 
-## 🧠 Smart Contract Summary
+## Smart Contract Summary
 
-The `FunifyClaim` contract performs the following:
+The `Fanify.claim` contract performs the following:
 
 - Validates if the user is eligible to claim a prize (match ended, no draw, valid bet, winner).
 - Fetches hype data and match result from the oracle.
@@ -36,7 +36,7 @@ The `FunifyClaim` contract performs the following:
 
 ---
 
-## 🧮 Mathematical Model
+## Mathematical Model
 
 Let:
 
@@ -79,7 +79,7 @@ $$
 
 ---
 
-## 🛡️ Anti-Spam: Hype Normalization & Weighting
+## Anti-Spam: Hype Normalization & Weighting
 
 To mitigate spam, sybil attacks, and manipulation by influencers, we propose a multi-layered data weighting system that ensures hype changes gradually, requiring consistent support over time:
 
@@ -157,7 +157,7 @@ This ensures the sum of all influence is bounded and requires consistent, high-q
 
 ---
 
-## ✅ Benefits
+## Benefits
 
 - **Sybil and influencer resistance:** Weighted participation, capped weights, similarity penalties, and EMA ensure that no single user or group can dominate hype without sustained effort.
 - **Transparent math:** All formulas can be audited and reproduced.

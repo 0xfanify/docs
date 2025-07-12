@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: What's is Hype-Based Betting?
+title: Hype-Based Betting
 ---
 
 ## What is Hype-Based Betting?

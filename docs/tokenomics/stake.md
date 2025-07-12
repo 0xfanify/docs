@@ -1,12 +1,12 @@
 ---
 sidebar_position: 8
-title: Stake (CHZ vs. Fan Token)
+title: Stake
 ---
 
-# Stake (CHZ vs. Fan Token)
+# Stake
 
 
-A plataforma HypeBet oferece duas modalidades distintas de stake, projetadas para atender a diferentes perfis de usuários e maximizar a utilidade tanto do CHZ quanto dos Fan Tokens:
+A plataforma Fanify oferece duas modalidades distintas de stake, projetadas para atender a diferentes perfis de usuários e maximizar a utilidade tanto do CHZ quanto dos Fan Tokens:
 
 ## 1. Stake de CHZ (Aposta Simples)
 

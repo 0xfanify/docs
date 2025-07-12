@@ -5,16 +5,30 @@ title: Token $HYPE
 
 # Token $HYPE
 
+The **$HYPE token** is the core settlement asset within the Fanify betting ecosystem, functioning as the exclusive currency for placing bets and distributing rewards. It is a **non-transferable, dollar-pegged ERC-20 token**, minted through staking and burned through participation in the betting process.
 
-O token $HYPE é a espinha dorsal do ecossistema de apostas do HypeBet, servindo como a moeda principal para todas as transações de aposta dentro da plataforma. Ele é um token ERC-20 (ou equivalente em outra blockchain compatível) que é gerado através do processo de stake e utilizado para realizar apostas, receber prêmios e acessar funcionalidades exclusivas.
+---
 
-## Funcionalidades e Utilidade do $HYPE
+## $HYPE Mechanics & Utility
 
-*   **Moeda de Aposta:** Todos os usuários, independentemente do tipo de stake (simples ou torcedor), utilizam o $HYPE para fazer suas apostas nos jogos.
-*   **Recompensa:** Os prêmios das apostas vencedoras são pagos em $HYPE, incentivando a participação e a retenção do token.
-*   **Incentivo:** Usuários que optam pelo stake de Fan Token para a temporada recebem um bônus significativo em $HYPE, que pode ser usado para apostar em todos os jogos do seu time ao longo da temporada.
-*   **Liquidez:** O $HYPE pode ser negociado em exchanges descentralizadas (DEXs), proporcionando liquidez aos usuários.
+* **Staking-Based Minting:**
+  The only way to mint $HYPE is by staking either **CHZ** or **Fan Tokens** via the platform’s smart contracts. No external purchase is allowed.
 
-## Geração do Token $HYPE
+* **Betting Currency:**
+  All users—whether staking CHZ or Fan Tokens—place their bets using $HYPE. It serves as the universal unit of account for all matches.
 
-O token $HYPE é gerado através de dois mecanismos principais de stake:
+* **Reward Distribution:**
+  Winnings from successful bets are paid out in $HYPE, reinforcing its role as the main reward token within the ecosystem.
+
+* **Fan Season Bonus:**
+  Users who stake **Fan Tokens** for an entire season receive a boosted allocation of $HYPE. This bonus allows them to bet on every match of their team throughout the season, increasing utility and loyalty.
+
+* **Non-Transferable:**
+  $HYPE is a **non-transferable token**. It cannot be sent to other wallets or used outside of the platform. Its sole purpose is for **betting and unstaking**.
+
+* **Unstaking Mechanism:**
+  To reclaim the original CHZ or Fan Token stake, users must hold an equivalent amount of $HYPE. The unstake process burns the $HYPE and releases the underlying asset.
+
+* **Risk Awareness:**
+  If a user loses all of their $HYPE through betting, they **forfeit access to their original stake**. This introduces a real economic consequence tied to betting performance, enhancing commitment and reducing farming abuse.
+
