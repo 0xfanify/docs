@@ -3,11 +3,19 @@ sidebar_position: 5
 title: What's is Hype-Based Betting?
 ---
 
-# What's is Hype-Based Betting?
+## What is Hype-Based Betting?
 
+**Hype-Based Betting** is the core innovation of our platform, redefining how sports betting is conceptualized and executed. Instead of relying solely on traditional statistical analysis or the subjective judgment of centralized oddsmakers, this model integrates collective sentiment and public perception derived from social media platforms.
 
-Hype-Based Betting é o conceito central da nossa plataforma, que redefine a forma como as apostas esportivas são realizadas. Ao invés de depender exclusivamente de análises estatísticas tradicionais ou da intuição de oddsmakers, o Hype-Based Betting incorpora o sentimento coletivo e a percepção pública expressa nas redes sociais.
+In this system, "hype"—the momentum, enthusiasm, or concern expressed across platforms like Twitter and Discord—is collected, processed, and transformed into a quantifiable metric. This **Hype Score** captures the real-time emotional pulse of the community surrounding a specific team or event.
 
-Neste modelo, o "hype" gerado em plataformas como Twitter, Telegram e Discord para um determinado time ou evento esportivo é coletado, analisado e transformado em uma métrica quantificável. Essa métrica de hype, que reflete o entusiasmo, a confiança ou até mesmo a preocupação da comunidade, é então utilizada para influenciar diretamente o cálculo das odds de uma aposta.
+The resulting metric directly influences the calculation of betting odds, making them dynamic rather than static. Odds evolve continuously up to match kickoff, reflecting shifts in public sentiment in real time.
 
-Isso significa que as odds não são estáticas; elas são dinâmicas e evoluem em tempo real (até o início do jogo) com base no pulso das redes sociais. O Hype-Based Betting oferece uma experiência de aposta mais transparente, engajadora e interativa, onde a voz da comunidade tem um impacto direto no jogo.
+This approach creates a betting experience that is:
+
+* **Transparent** – Odds are driven by publicly observable data.
+* **Engaging** – Fans can collectively shape the market through their voice.
+* **Interactive** – Social momentum directly impacts outcomes, blending fandom with financial participation.
+
+Hype-Based Betting transforms passive speculation into an active, decentralized dialogue—bridging Web3 infrastructure with the emotional intensity of sports culture.
+
