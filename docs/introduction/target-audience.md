@@ -3,15 +3,15 @@ sidebar_position: 4
 title: Target Audience
 ---
 
-# Target Audience
+## Target Audience
 
+Fanify is designed to serve multiple user segments, each with distinct motivations and needs:
 
-O HypeBet foi projetado para atender a diversos segmentos de usuários, cada um com suas motivações e necessidades específicas:
+* **Sports Fans and Passionate Supporters:** Individuals deeply engaged with football (and eventually other sports) who seek a more interactive and meaningful way to support their teams. They value community-driven experiences and the emotional connection of shared sentiment.
 
-*   **Fãs de Esportes e Torcedores Engajados:** Indivíduos apaixonados por futebol (e outros esportes, futuramente) que buscam uma forma mais interativa e significativa de apoiar seus times. Eles valorizam o engajamento com a comunidade e o sentimento coletivo.
+* **Crypto-Native Bettors:** Users familiar with crypto and blockchain technologies, actively seeking innovative, transparent betting platforms with additional earning potential. They value the trustlessness, security, and decentralization enabled by smart contract infrastructure.
 
-*   **Apostadores de Cripto:** Usuários familiarizados com o universo das criptomoedas e blockchain, que procuram plataformas de aposta inovadoras, transparentes e com potencial de rendimento adicional. Eles apreciam a segurança e a descentralização oferecidas pela tecnologia blockchain.
+* **Fan Token Holders:** Members of the Chiliz and fan token ecosystems looking to maximize the utility of their digital assets. They seek opportunities for staking, yield farming, and participation rewards that increase the value of their tokens while deepening team engagement.
 
-*   **Detentores de Tokens CHZ e Fan Tokens:** Membros das comunidades Chiliz e de fan tokens que desejam maximizar a utilidade de seus ativos digitais. Eles buscam oportunidades de stake, yield farming e bônus que valorizem seus tokens e os engajem ainda mais com seus times favoritos.
+* **DeFi Enthusiasts:** Users immersed in decentralized finance, eager for novel yield-generating strategies and investment mechanics within the context of sports betting. They are motivated by composability, smart contract yield flows, and innovative DeFi primitives.
 
-*   **Entusiastas de DeFi:** Usuários interessados em finanças descentralizadas que buscam novas oportunidades de yield farming e estratégias de investimento inovadoras no espaço das apostas esportivas.
