@@ -6,6 +6,11 @@ title: Overview
 
 # Overview
 
-Bem-vindo à documentação do protocolo HypeBet! Este projeto inovador visa revolucionar o mundo das apostas esportivas, integrando o poder do sentimento das redes sociais com a transparência e segurança da tecnologia blockchain. Nossa plataforma permite que os usuários apostem em eventos esportivos, como jogos de futebol, com base no 'hype' gerado nas mídias sociais, oferecendo uma experiência de aposta dinâmica e engajadora.
+Fanify introduces a new game plan for sports prediction markets — where collective fan sentiment becomes alpha and directly shapes the odds. Built on a fully decentralized stack, the protocol transforms passive supporters into on-chain market makers, enabling real-time, dynamic odds through a trustless and transparent system.
 
-O HypeBet introduz um novo paradigma onde o sentimento coletivo dos fãs influencia diretamente as odds, criando um mercado de apostas mais justo e interativo. Além disso, incentivamos o engajamento da comunidade e a utilidade dos fan tokens, oferecendo diferentes modalidades de stake e recompensas em nosso token nativo, o $HYPE.
+But we don’t stop at odds.
+
+Fanify amplifies community engagement by enabling staking mechanisms inspired by DeFi-native liquidity pools. Fans can stake their support via seasonal yield farming campaigns, earning rewards while backing their teams — not just with emotion, but with capital.
+
+This is Web3 meets the stadium. Permissionless. Composable. Fan-powered.
+
