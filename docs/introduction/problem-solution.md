@@ -6,17 +6,19 @@ title: Problem → Solution
 # Problem → Solution
 
 
-## O Problema
+## Challenges in Traditional Sports Betting
 
-O mercado de apostas esportivas tradicional enfrenta desafios significativos que afetam a experiência do usuário e a confiança na plataforma:
+The traditional sports betting market faces critical challenges that impact both user experience and trust in the platform:
 
-*   **Falta de Transparência:** As odds são definidas por casas de apostas centralizadas, sem clareza sobre como são calculadas, o que pode levar a manipulações e desconfiança.
-*   **Engajamento Limitado:** A experiência de aposta é muitas vezes passiva, com pouca interação ou influência do fã no resultado das odds.
-*   **Utilidade Limitada de Fan Tokens:** Os fan tokens, embora populares, muitas vezes carecem de casos de uso concretos que gerem valor real para seus detentores.
-*   **Centralização e Risco:** Plataformas centralizadas são vulneráveis a hacks, censura e manipulação de dados, comprometendo a integridade das apostas.
+- **Lack of Transparency:** Odds are determined by centralized bookmakers without disclosing their calculation methodology, leading to potential manipulation and user distrust.
+- **Limited Engagement:** Betting experiences are often passive, offering minimal interaction or influence from fans on the odds or outcomes.
+- **Centralization and Risk Exposure:** Centralized platforms are vulnerable to hacks, censorship, and data manipulation, ultimately compromising the integrity of the betting system.
 
-## A Solução
+## The Fanify Solution
 
-O HypeBet aborda esses problemas de frente, oferecendo uma solução inovadora e descentralizada:
+Fanify directly addresses these issues by delivering a decentralized and innovative betting infrastructure:
 
-*   **Apostas Baseadas em Hype:** Introduzimos um novo modelo de aposta onde o sentimento das redes sociais (o "hype") influencia diretamente as odds. Isso cria um mercado de apostas mais dinâmico, transparente e engajador.
+- **Hype-Based Betting:** We introduce a novel betting model where social media sentiment ("hype") directly influences the odds. This approach fosters a more dynamic, transparent, and engaging betting market.
+- **On-Chain Odds:** Odds are calculated based on real-time hype data sourced from social networks. This ensures full transparency and eliminates the need to trust a centralized intermediary.
+- **Fan Token Yield Farming:** Fan token holders can participate in seasonal yield farming by staking their tokens in support of their team. This enhances utility and drives long-term demand for fan tokens.
+- **Blockchain Security and Transparency:** Built on blockchain, Fanify ensures a trustless, censorship-resistant, and secure betting environment. Users maintain full control over their positions, which are enforced by smart contracts—not intermediaries.
