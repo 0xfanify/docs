@@ -3,20 +3,21 @@ sidebar_position: 3
 title: Value Proposition
 ---
 
-# Value Proposition
 
+## Value Proposition
 
-Nossa proposta de valor é multifacetada, atendendo às necessidades e desejos de diferentes segmentos de usuários:
+Our value proposition is multifaceted, addressing the needs and aspirations of diverse user segments:
 
-## Para Apostadores
+* **Innovative Betting Experience:** A new paradigm where social media sentiment directly shapes betting odds, creating a more dynamic and emotionally connected experience.
 
-*   **Apostas Inovadoras:** Uma experiência de aposta única e emocionante, onde o sentimento das redes sociais se traduz em odds e ganhos.
-*   **Potencial de Ganhos Aumentado:** Oportunidades de rendimento adicionais através do yield farming e bônus em nosso token $HYPE.
-*   **Transparência e Confiança:** Odds calculadas on-chain e dados de hype verificáveis por oráculos descentralizados, garantindo um ambiente de aposta justo e transparente.
-*   **Engajamento:** Conexão direta com o "sentimento" do jogo e da comunidade, tornando a aposta uma experiência mais imersiva.
+* **Enhanced Earning Potential:** Additional yield opportunities through our \$HYPE token rewards and fan token-based yield farming mechanisms.
 
-## Para Detentores de Tokens CHZ e Fan Tokens
+* **Transparency and Trust:** On-chain odds and hype data verified by decentralized oracles ensure a fair, auditable, and censorship-resistant betting environment.
 
-*   **Utilidade do Token:** Oferecemos novos e significativos casos de uso para seus tokens CHZ e fan tokens, aumentando sua demanda e valor.
-*   **Incentivo à Participação:** Ganhos adicionais e multiplicação de ativos ao usar fan tokens em stakes de temporada, incentivando a retenção e o engajamento de longo prazo.
-*   **Fortalecimento do Ecossistema:** Contribuímos para o crescimento e a vitalidade do ecossistema Chiliz e dos fan tokens, criando mais oportunidades para a comunidade.
+* **Deeper Engagement:** Direct alignment with the emotional pulse of the game and its fanbase transforms betting into an immersive, community-driven experience.
+
+* **Token Utility Expansion:** We introduce new use cases for existing fan tokens, boosting demand, increasing utility, and distributing protocol earnings via staking incentives.
+
+* **Participation Incentives:** Users are rewarded for long-term engagement through seasonal staking of fan tokens, enabling compounding returns and fostering loyalty.
+
+* **Ecosystem Growth:** By leveraging and contributing to the Chiliz and fan token ecosystems, we fuel broader adoption and create more value for the entire community.
